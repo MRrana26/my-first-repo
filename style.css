@@ -1,0 +1,137 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+  }
+  .container{
+    display: flex;
+  }
+  .half-widht{
+    width: 40%;
+    height: 250px;
+    margin-left: 10px;
+    border: ;
+    padding: 10px;
+  }
+  img{
+    width: 100%;
+    height: 100%;
+  }
+  .left{
+    margin-left: 40px;
+  }
+  #food{
+    color: orange;
+    font-size: 20px;
+  }
+  #adda{
+    color: #ff00d8;
+    font-size: 18px;
+  }
+  #Name{
+    color: #642104;
+    font-size: 14px;
+  }
+  p{
+    font-size: 10px;
+    text-align: justify;
+  }
+  .container-two{
+    display: flex;
+    border-top: 3px solid #b3b3fc;
+    background-image: linear-gradient(#4141fc, #acacfe);
+    margin-top: 80px;
+  }
+  .tow{
+    height: 150px;
+  }
+  h4{
+    font-size: 20px;
+    color: #c9c9c9 ;
+    margin-bottom: 1px;
+    margin-top: 1px;
+  }
+  #paragraph-two{
+    font-size: 10px;
+  }
+  a{
+    text-decoration: none;
+    padding: 5px 15px;
+    background-image: linear-gradient(#fd6c6c, #c51414);
+    border-radius: 8px;
+    color: white ;
+  }
+  .Discretion{
+    text-align: center;
+    
+  }
+  .Discretion-paraghrap{
+    font-size: 7px;
+  }
+  .tree-div{
+    display: flex;
+    margin-top: 40px;
+  }
+  .tird-widht{
+    width: 32%;
+    height: 150px;
+    box-shadow: 1px 1px 10px #a1a0a0;
+    padding: 5px;
+    margin: 1px 10px;
+    border-radius: 10px;
+  }
+  .tird-img{
+    width: 100%;
+    height: 60px;
+    border-radius: 10px;
+    margin: 0;
+  }
+  .tird-text{
+    margin-top: 5px;
+    margin-left: 7px;
+    
+  }
+  .bottom-paragrhap{
+    font-size: 5px;
+  }
+  .review{
+    display: flex;
+    margin-top: 60px;
+    box-shadow: 1px 1px 10px #cdcdcd;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 40px;
+  }
+  h2{
+    font-size: 10px;
+    text-align: center;
+    margin-bottom: 0px;
+  }
+  .p{
+    font-size: 5px;
+    text-align: center;
+  }
+  .review-item{
+    margin: 0 10px;
+    width: 32%;
+    height: 50px;
+  }
+  .Footer{
+    background-image: linear-gradient(#2b2929, #1d1212);
+    margin: 1px 20px 20px 20px;
+    padding:2px 4px ;
+    height: 50px;
+  }
+  #Footer-head{
+    text-align: center;
+  }
+  .head-first-word{
+    color: #ddcd1a;
+  }
+  .head-second-word{
+    color: #c5c5c5;
+  }
+  .last-text{
+    text-align: center;
+    font-size: 5px;
+    color: #959595 ;
+  }

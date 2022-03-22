@@ -6,43 +6,45 @@ body{
     display: flex;
   }
   .half-widht{
-    width: 40%;
-    height: 250px;
+    width: 45%;
+    height: 350px;
     margin-left: 10px;
-    border: ;
+    margin-right: 5px;
     padding: 10px;
+    
   }
   img{
     width: 100%;
     height: 100%;
+    border-radius: 50%;
   }
   .left{
-    margin-left: 40px;
+    margin-left: 10px;
   }
   #food{
-    color: orange;
-    font-size: 20px;
+    color: rgb(224, 148, 5);
+    font-size: 30px;
   }
   #adda{
-    color: #ff00d8;
-    font-size: 18px;
+    color: #8d0378;
+    font-size: 28px;
   }
   #Name{
-    color: #642104;
-    font-size: 14px;
+    color: #a03202;
+    font-size: 20px;
   }
   p{
-    font-size: 10px;
+    font-size: 20px;
     text-align: justify;
   }
   .container-two{
     display: flex;
     border-top: 3px solid #b3b3fc;
-    background-image: linear-gradient(#4141fc, #acacfe);
+    background-image: linear-gradient( #4141fc, #acacfe);
     margin-top: 80px;
   }
   .tow{
-    height: 150px;
+    height: 200px;
   }
   h4{
     font-size: 20px;
@@ -51,12 +53,12 @@ body{
     margin-top: 1px;
   }
   #paragraph-two{
-    font-size: 10px;
+    font-size: 15px;
   }
   a{
     text-decoration: none;
     padding: 5px 15px;
-    background-image: linear-gradient(#fd6c6c, #c51414);
+    background-image: linear-gradient(#faa0a0, #f80202);
     border-radius: 8px;
     color: white ;
   }
@@ -65,7 +67,7 @@ body{
     
   }
   .Discretion-paraghrap{
-    font-size: 7px;
+    font-size: 12px;
   }
   .tree-div{
     display: flex;
